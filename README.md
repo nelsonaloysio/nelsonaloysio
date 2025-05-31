@@ -1,8 +1,7 @@
 <div align="center">
     <h1><a href="#">&#x200B;</a>Hi there 👋, I'm Nelson!</h1>
-    <p><b>I'm a researcher and developer in AI and Network Science.</b></p>
+    <p><b>Feel free to check out my <a href="https://nelsonaloysio.github.io">about page</a> or send me an <a href="mailto:nelson.reis@phd.unipi.it">e-mail</a>.</p>
     <p><a href="#"><img src="https://raw.githubusercontent.com/nelsonaloysio/nelsonaloysio/snake/snake.svg" /></a></p>
-    <p><b>Feel free to send me an <a href="mailto:nelson.reis@phd.unipi.it">e-mail</a> or check out my <a href="https://nelsonaloysio.github.io">about page</a>.</b></p>
 </div>
 
 ___
