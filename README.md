@@ -4,6 +4,7 @@
     <p><a href="#"><img src="https://raw.githubusercontent.com/nelsonaloysio/nelsonaloysio/snake/snake.svg" /></a></p>
 </div>
 
+<!--
 ___
 
 <div align="center">
@@ -11,12 +12,16 @@ ___
     <p><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=nelsonaloysio&no-bg=true&no-frame=true&row=1&column=4&theme=algolia" /></a></p>
 </div>
 
+-->
+
 ___
 
 <div align="center">
     [<a href="https://raw.githubusercontent.com/nelsonaloysio/nelsonaloysio/main/README.md">source</a>
      <a href="https://github.com/nelsonaloysio/nelsonaloysio/blob/main/.github/workflows/snake.yml">code</a>]
     [<a href="https://github.com/Platane/snk">#1</a>]
+    <!--
     [<a href="https://github.com/DenverCoder1/github-readme-streak-stats">#2</a>]
     [<a href="https://github.com/ryo-ma/github-profile-trophy">#3</a>]
+    -->
 </div>
